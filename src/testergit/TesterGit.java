@@ -15,7 +15,8 @@ public class TesterGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Version 2.0");
+        System.out.println("Version 3.0");
+        System.out.println("J'ai fait des modifs");
     }
     
 }
