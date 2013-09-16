@@ -18,7 +18,7 @@ public class TesterGit {
         System.out.println("Version 3.0");
         System.out.println("J'ai fait une modif, je suis pas d'accord");
         System.out.println("J'ai fait une modif, je suis  d'accord");
-        System.out.println("modif Nelly");
+        System.out.println("Modif de nicolas");
     }
     
 }
