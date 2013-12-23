@@ -15,6 +15,6 @@ public class ClasseNicolas {
      */
     public static void main(String[] args) {
         System.out.println("Salut à nouveau Nelly !");
-        System.out.println("Salut Françoise !");
+        System.out.println("Salut aussi à Françoise !");
     }
 }
