@@ -14,6 +14,7 @@ public class ClasseNicolas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Salut Nelly !");
+        System.out.println("Salut à nouveau Nelly !");
+        System.out.println("Salut Françoise !");
     }
 }

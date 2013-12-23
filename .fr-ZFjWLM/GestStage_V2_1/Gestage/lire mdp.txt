@@ -1,0 +1,5 @@
+compte: admin ,mdp : admin
+compte: tdemarly ,mdp:tdemarly
+compte: prof ,mdp: prof522
+compte: prof32 ,mdp: prof522
+compte: etudiant ,mdp: etudiant522
